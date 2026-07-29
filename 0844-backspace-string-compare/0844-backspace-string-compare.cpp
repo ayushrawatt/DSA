@@ -1,4 +1,4 @@
-//used two pointers approach(O(m+n), O(1))
+//used two pointers approach(T(m,n), S(1))
 
 class Solution {
 public:
